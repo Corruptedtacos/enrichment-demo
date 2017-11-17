@@ -1,0 +1,21 @@
+github cycle of updating files for repositories
+
+add > commit > push
+
+git add .
+. = all files but you can name the file as well
+
+git commit -m ""
+-m adds a quick message to the commit rather than opening another screen
+
+git push
+
+pushes to github itself
+
+git reflog is how you view the history to the repositories
+
+git checkout -b <branch-name>
+
+-b adds a branch
+<branch-name> is the literal branch you would like to create
+
